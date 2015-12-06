@@ -1,0 +1,217 @@
+[
+
+	{
+		"id": 1,
+		"title": "Rocket J Squirrel Theme (Jay Ward Productions, 1959)",
+		"correct": "Rocky the Flying Squirrel",
+		"choices": [
+			"Rocky the Flying Squirrel",
+			"Tom and Jerry",
+			"Courageous Cat and Minute Mouse",
+			"Snooper and Blabber"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/bull-rocky.mp3"
+	},
+
+	{
+		"id": 2,
+		"title": "Courageous Cat & Minute Mouse (Tele Features, 1960)",
+		"type": "audio",
+		"correct": "Courageous Cat & Minute Mouse",
+		"choices": [
+			"The Bullwinkle Show",
+			"Tom and Jerry",
+			"Courageous Cat and Minute Mouse",
+			"Klondike Kat"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/c-cat-m-mouse.mp3"
+	},
+
+	{
+		"id": 3,
+		"title": "Dexter's Laboratory (Genndy Tartakovsky, 1996)",
+		"type": "audio",
+		"correct": "Dexter's Laboratory",
+		"choices": [
+			"Pinky and the Brain",
+			"Dexter's Laboratory",
+			"Power Puff Girls",
+			"Space Ghost"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/dexters-lab.mp3"
+
+	},
+
+	{
+		"id": 4,
+		"title": "Heckle & Jeckle (TerryToons, 1946)",
+		"type": "audio",
+		"correct": "Heckle & Jeckle",
+		"choices": [
+			"Loopy de Loop",
+			"Heckle & Jeckle",
+			"Quick Draw McGraw",
+			"Yakky Doodle"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/heckle-jeckle.mp3"
+
+	},
+
+	{
+		"id": 5,
+		"title": "Loopy de Loop (Columbia (Hanna/Barbera), 1959)",
+		"type": "audio",
+		"correct": "Loopy de Loop",
+		"choices": [
+			"Snooper and Blabber",
+			"Pluto the Dog",
+			"Yakky Doodle",
+			"Loopy de Loop"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/loopy.mp3"
+	},
+
+	{
+		"id": 6,
+		"title": "Mister Magoo (UPA, 1949)",
+		"type": "audio",
+		"correct": "Mister Magoo",
+		"choices": [
+			"Tudor Turtle",
+			"Perry the Platypus",
+			"Mister Magoo",
+			"Mr. Peabody and Sherman"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/magoo.mp3"
+	},
+
+	{
+		"id": 7,
+		"title": "Pluto the Dog (Disney, 1930)",
+		"type": "audio",
+		"correct": "Pluto the Dog",
+		"choices": [
+			"Quick Draw McGraw",
+			"Pluto the Dog",
+			"Snagglepuss",
+			"Tudor Turtle"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/pluto.mp3"
+	},
+
+	{
+		"id": 8,
+		"title": "Quick Draw McGraw Theme (Hanna Barbera, 1959)",
+		"type": "audio",
+		"correct": "Quick Draw McGraw",
+		"choices": [
+			"Rocky the Flying Squirrel",
+			"Quick Draw McGraw",
+			"Snagglepuss",
+			"Snooper and Blabber"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/quick-draw.mp3"
+
+	},
+
+	{
+		"id": 9,
+		"title": "Ren & Stimpy (Nickelodeon, 1991)",
+		"type": "audio",
+		"correct": "Ren & Stimpy",
+		"choices": [
+			"Ed, Edd, & Eddy",
+			"Loopy de Loop",
+			"Ren & Stimpy",
+			"Yakky Doodle"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/ren-stimpy.mp3"
+	},
+
+	{
+		"id": 10,
+		"title": "Rugrats (Nickelodeon, 1990)",
+		"type": "audio",
+		"correct": "Rugrats",
+		"choices": [
+			"Rocky the Flying Squirrel",
+			"Tom and Jerry",
+			"Courageous Cat and Minute Mouse",
+			"Snooper and Blabber"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/rugrats.mp3"
+	},
+
+	{
+		"id": 11,
+		"title": "Snagglepuss Theme (Hanna Barbera,1959)",
+		"type": "audio",
+		"correct": "Snagglepuss",
+		"choices": [
+			"Rocky the Flying Squirrel",
+			"Tom and Jerry",
+			"Courageous Cat and Minute Mouse",
+			"Snooper and Blabber"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/snagglepuss.mp3"
+	},
+
+	{
+		"id": 12,
+		"title": "Snooper & Blabber Theme (Hanna Barbera, 1959)",
+		"type": "audio",
+		"correct": "Snooper & Blabber",
+		"choices": [
+			"Rocky the Flying Squirrel",
+			"Tom and Jerry",
+			"Courageous Cat and Minute Mouse",
+			"Snooper and Blabber"
+		],
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/snooper-blabber.mp3"
+	},
+
+	{
+		"id": 13,
+		"title": "Super Chicken (Jay Ward & Bill Scott, 1967)",
+		"type": "audio",
+		"correct": "Super Chicken",
+		"alt1": "",
+		"alt2": "",
+		"alt3": "",
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/super-chicken.mp3"
+	},
+
+	{
+		"id": 14,
+		"title": "Tom & Jerry Theme (MGM (Hanna & Barbera) 1940)",
+		"type": "audio",
+		"correct": "Tom & Jerry",
+		"alt1": "",
+		"alt2": "",
+		"alt3": "",
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/tom-jerry.mp3"
+	},
+
+	{
+		"id": 15,
+		"title": "Wally Gator Theme (Hanna Barbera, 1962)",
+		"type": "audio",
+		"correct": "Wally Gator",
+		"alt1": "",
+		"alt2": "",
+		"alt3": "",
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/wally-gator.mp3"
+	},
+
+	{
+		"id": 16,
+		"title": "Yakky Doodle (Hanna Barbera, 1961)",
+		"type": "audio",
+		"correct": "Yakky Doodle",
+		"alt1": "",
+		"alt2": "",
+		"alt3": "",
+		"url": "http://www.melaman2.com/cartoons/singles/mp3/yakky.mp3"
+	}
+
+]

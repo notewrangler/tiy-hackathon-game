@@ -1,0 +1,39 @@
+body {
+	font-family: fantasy;
+	background-image: url("http://wallpaperhdwide.com/wp-content/gallery/cartoon-network-characters-pictures/cartoon-network-characters-cartoon-hd-wallpaper-1920x1080-1356.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body h1 {
+	font-family: 'Fontdiner Swanky', cursive;
+	font-size: 3rem;
+}
+
+#container {
+	width: 52%;
+	margin: auto;
+	text-align: center;
+	background: #dcdcd9;
+	border-radius: 8px;
+	padding-bottom: 20px;
+}
+
+#pic-frame img {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+}
+
+.side-side {
+	width: 350px;
+	height: 60px;
+	font-size: 1rem;
+	color: white;
+	background: #019cf6;
+}
+.side-side:hover {
+	background: #80ddfa;
+}
+#answer {
+	font-size: 1.6rem;
+}
