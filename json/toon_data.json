@@ -103,21 +103,9 @@
 		],
 		"url": "http://www.melaman2.com/cartoons/singles/mp3/bull-rocky.mp3"
 	},
-  {
-		"id": 9,
-		"title": "Rocket J Squirrel Theme (Jay Ward Productions, 1959)",
-		"correct": "Rocky the Flying Squirrel",
-		"choices": [
-			"Rocky the Flying Squirrel",
-			"Tom and Jerry",
-			"Courageous Cat and Minute Mouse",
-			"Snooper and Blabber"
-		],
-		"url": "http://www.melaman2.com/cartoons/singles/mp3/bull-rocky.mp3"
-	},
 
 	{
-		"id": 10,
+		"id": 9,
 		"title": "Courageous Cat & Minute Mouse (Tele Features, 1960)",
 		"type": "audio",
 		"correct": "Courageous Cat & Minute Mouse",
@@ -131,7 +119,7 @@
 	},
 
 	{
-		"id": 11,
+		"id": 10,
 		"title": "Dexter's Laboratory (Genndy Tartakovsky, 1996)",
 		"type": "audio",
 		"correct": "Dexter's Laboratory",
@@ -146,7 +134,7 @@
 	},
 
 	{
-		"id": 12,
+		"id": 11,
 		"title": "Heckle & Jeckle (TerryToons, 1946)",
 		"type": "audio",
 		"correct": "Heckle & Jeckle",
@@ -161,7 +149,7 @@
 	},
 
 	{
-		"id": 13,
+		"id": 12,
 		"title": "Loopy de Loop (Columbia (Hanna/Barbera), 1959)",
 		"type": "audio",
 		"correct": "Loopy de Loop",
@@ -175,7 +163,7 @@
 	},
 
 	{
-		"id": 14,
+		"id": 13,
 		"title": "Mister Magoo (UPA, 1949)",
 		"type": "audio",
 		"correct": "Mister Magoo",
@@ -189,7 +177,7 @@
 	},
 
 	{
-		"id": 15,
+		"id": 14,
 		"title": "Pluto the Dog (Disney, 1930)",
 		"type": "audio",
 		"correct": "Pluto the Dog",
@@ -203,7 +191,7 @@
 	},
 
 	{
-		"id": 16,
+		"id": 15,
 		"title": "Quick Draw McGraw Theme (Hanna Barbera, 1959)",
 		"type": "audio",
 		"correct": "Quick Draw McGraw",
@@ -218,7 +206,7 @@
 	},
 
 	{
-		"id": 17,
+		"id": 16,
 		"title": "Ren & Stimpy (Nickelodeon, 1991)",
 		"type": "audio",
 		"correct": "Ren & Stimpy",
@@ -232,21 +220,21 @@
 	},
 
 	{
-		"id": 18,
+		"id": 17,
 		"title": "Rugrats (Nickelodeon, 1990)",
 		"type": "audio",
 		"correct": "Rugrats",
 		"choices": [
-			"Rocky the Flying Squirrel",
-			"Tom and Jerry",
-			"Courageous Cat and Minute Mouse",
+			"Rugrats",
+			"Teletubbies",
+			"PeeWee's Funhouse",
 			"Snooper and Blabber"
 		],
 		"url": "http://www.melaman2.com/cartoons/singles/mp3/rugrats.mp3"
 	},
 
 	{
-		"id": 19,
+		"id": 18,
 		"title": "Snagglepuss Theme (Hanna Barbera,1959)",
 		"type": "audio",
 		"correct": "Snagglepuss",
@@ -260,7 +248,7 @@
 	},
 
 	{
-		"id": 20,
+		"id": 19,
 		"title": "Snooper & Blabber Theme (Hanna Barbera, 1959)",
 		"type": "audio",
 		"correct": "Snooper & Blabber",
@@ -273,7 +261,7 @@
 		"url": "http://www.melaman2.com/cartoons/singles/mp3/snooper-blabber.mp3"
 	},
   {
-		"id": 21,
+		"id": 20,
     "type": "image",
 		"title": "Top Cat",
 		"correct": "Top Cat",
@@ -286,7 +274,7 @@
 		"url": "http://1.bp.blogspot.com/-eHOmp2Jowf4/VAHxXiZ5AFI/AAAAAAAAGoA/ffvQ132ArLU/s1600/cartoon%2Bcats%2Bnames.gif"
 	},
   {
-		"id": 22,
+		"id": 21,
     "type": "image",
 		"title": "Top Cat",
 		"correct": "Choo Choo",
@@ -299,7 +287,7 @@
 		"url": "http://vignette2.wikia.nocookie.net/topcat/images/9/9e/!BzLC9Ig!2k~$(KGrHqMOKn!Ew9)B_CdZBMU0sN2L1Q~~_3.gif/revision/latest?cb=20110425171550"
 	},
   {
-		"id": 23,
+		"id": 22,
     "type": "image",
 		"title": "Breezly and Sneezly",
 		"correct": "Breezly and Sneezly",
@@ -312,7 +300,7 @@
 		"url": "http://aimorecoelho.com.br/stuff/Breezly_Sneezly_by_Aimore.jpg"
 	},
   {
-		"id": 24,
+		"id": 23,
     "type": "image",
 		"title": "Screwy Squirrel",
 		"correct": "Screwy Squirrel",
@@ -325,7 +313,7 @@
 		"url": "http://media.sdreader.com/img/croppedphotos/2014/01/21/screwy1_t670.png"
 	},
   {
-		"id": 25,
+		"id": 24,
     "type": "image",
 		"title": "Felix the Cat",
 		"correct": "Rock Bottom",
@@ -338,7 +326,7 @@
 		"url": "http://vignette3.wikia.nocookie.net/felixthecat/images/4/41/Rock_Bottom.jpg/revision/latest?cb=20130303230300"
 	},
   {
-		"id": 26,
+		"id": 25,
     "type": "image",
 		"title": "Ricochet Rabbit",
 		"correct": "Ricochet Rabbit",
@@ -351,7 +339,7 @@
 		"url": "http://www.cartoonscrapbook.com/_images/lrg/01/ricochet-rabbit_L14.jpg"
 	},
   {
-		"id": 27,
+		"id": 26,
     "type": "image",
 		"title": "Flintstones",
 		"correct": "Mr. Slate",
@@ -364,7 +352,7 @@
 		"url": "http://2.bp.blogspot.com/_mhyzW5rK904/TKZDDS4EonI/AAAAAAAABZ0/tJvdpDElVQc/s1600/42.+Rajuela+Blog.JPG"
 	},
   {
-		"id": 28,
+		"id": 27,
     "type": "image",
 		"title": "Flintstones",
 		"correct": "The Great Gazoo",
@@ -377,7 +365,7 @@
 		"url": "https://upload.wikimedia.org/wikipedia/en/4/49/The_Great_Gazoo.png"
 	},
   {
-		"id": 29,
+		"id": 28,
     "type": "image",
 		"title": "The Jetsons",
 		"correct": "Cosmo Spacely",
@@ -390,7 +378,7 @@
 		"url": "http://www.cartoonscrapbook.com/01pics-L/jetsons_L74.jpg"
 	},
   {
-		"id": 30,
+		"id": 29,
     "type": "image",
 		"title": "Heckle and Jeckle",
 		"correct": "Heckle and Jeckle",
@@ -403,7 +391,7 @@
 		"url": "http://vignette4.wikia.nocookie.net/poohadventures/images/0/07/Heckle_and_Jeckle.jpg/revision/latest?cb=20140102174901"
 	},
   {
-		"id": 31,
+		"id": 30,
     "type": "image",
 		"title": "The Jetsons",
 		"correct": "Judy Jetson",
@@ -416,7 +404,7 @@
 		"url": "http://cartoon-characters.com/wp-content/uploads/2014/04/Judy-Jetson.jpg"
 	},
   {
-		"id": 32,
+		"id": 31,
     "type": "image",
 		"title": "The Jetsons",
 		"correct": "Henry Orbit",
@@ -429,7 +417,7 @@
 		"url": "http://www.jrj-socrates.com/Cartoon%20Pics/Hanna%20Barbera/Jetsons/Henry_Orbit_300.gif"
 	},
   {
-		"id": 33,
+		"id": 32,
     "type": "image",
 		"title": "The Jetsons",
 		"correct": "Elroy",
@@ -442,7 +430,7 @@
 		"url": "http://vignette3.wikia.nocookie.net/hanna-barbera/images/8/89/Elroy_Jetson.png/revision/latest?cb=20110327083337"
 	},
   {
-		"id": 34,
+		"id": 33,
     "type": "image",
 		"title": "Ruff and Reddy",
 		"correct": "Ruff and Reddy",
@@ -455,7 +443,7 @@
 		"url": "https://c2.staticflickr.com/4/3906/14417488241_5a6fa203e1_b.jpg"
 	},
   {
-		"id": 35,
+		"id": 34,
     "type": "image",
 		"title": "Inch High, Private Eye",
 		"correct": "Inch High",
@@ -468,7 +456,7 @@
 		"url": "http://www.melaman2.com/cartoons/singles/stills/J/inchhigh3.jpg"
 	},
   {
-		"id": 36,
+		"id": 35,
     "type": "image",
 		"title": "The Jetsons",
 		"correct": "Rosie",
@@ -481,7 +469,7 @@
 		"url": "http://static.giantbomb.com/uploads/scale_small/0/7572/480222-jetsons_tv_04.jpg"
 	},
   {
-		"id": 37,
+		"id": 36,
     "type": "image",
 		"title": "Super Chicken",
 		"correct": "Super Chicken",
@@ -492,5 +480,96 @@
         "Triumphant Turkey"
     ],
 		"url": "http://www.renegadechickens.com/chickens/Toons/superchicken.gif"
-	}
+	},
+  {
+		"id": 37,
+    "type": "image",
+		"title": "Flintstones",
+		"correct": "Betty Rubble",
+		"choices": [
+        "Wilma Flintstone",
+        "Betty Rubble",
+        "Josie",
+        "Sheila Rockhead"
+    ],
+		"url": "http://www.wearysloth.com/Gallery/ActorsJ/tve8834-19651022-383.jpg"
+	},
+  {
+		"id": 38,
+    "type": "image",
+		"title": "The Jetsons",
+		"correct": "Astro",
+		"choices": [
+        "Scooby Doo",
+        "Astro",
+        "Marmaduke",
+        "Pluto Pup"
+    ],
+		"url": "http://www.nationalnannies.com/wp-content/uploads/2012/03/astro.gif"
+	},
+  {
+		"id": 39,
+    "type": "image",
+		"title": "The Jetsons",
+		"correct": "Jane Jetson",
+		"choices": [
+        "Judy Jetson",
+        "Beyonce",
+        "Jane Jetson",
+        "Lois Griffin"
+    ],
+		"url": "http://vignette4.wikia.nocookie.net/the-jetsons/images/6/63/Jane_Jetson.jpg"
+  },
+  {
+		"id": 40,
+    "type": "image",
+		"title": "Lariat Sam",
+		"correct": "Lariat Sam",
+		"choices": [
+        "Wrangler Roy",
+        "Lariat Sam",
+        "Lonesome Cowboy Burt",
+        "The Waco Kid"
+    ],
+		"url": "http://www.melaman2.com/cartoons/singles/stills/L/lariat-sam2.jpg"
+  },
+  {
+		"id": 41,
+    "type": "image",
+		"title": "Felix the Cat",
+		"correct": "Poindexter",
+		"choices": [
+        "Dexter",
+        "Egbert",
+        "Poindexter",
+        "Whiz Kid Will"
+    ],
+		"url": "https://i.ytimg.com/vi/vw9gb4taaX8/hqdefault.jpg"
+  },
+  {
+		"id": 41,
+    "type": "image",
+		"title": "Top Cat",
+		"correct": "Brain",
+		"choices": [
+        "Brain",
+        "Alley Arvin",
+        "Spook",
+        "Freddy"
+    ],
+		"url": "http://vignette2.wikia.nocookie.net/p__/images/8/84/Brain_(Top_Cat).gif/revision/latest?cb=20150215033504&path-prefix=protagonist"
+  },
+  {
+		"id": 42,
+    "type": "image",
+		"title": "Little Audrey",
+		"correct": "Little Audrey",
+		"choices": [
+        "Little Dot",
+        "Ogee",
+        "Little Audrey",
+        "Winnie Winkle"
+    ],
+		"url": "http://harveycomics.50webs.com/audrey.gif"
+  }
 ]
